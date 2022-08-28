@@ -1,0 +1,57 @@
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\appsettings.json
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\test 1.staticwebassets.runtime.json
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\test 1.exe
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\test 1.deps.json
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\test 1.runtimeconfig.json
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\test 1.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\test 1.pdb
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\test 1.csproj.AssemblyReference.cache
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\test 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\test 1.AssemblyInfoInputs.cache
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\test 1.AssemblyInfo.cs
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\test 1.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\test 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\test 1.RazorAssemblyInfo.cache
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\test 1.RazorAssemblyInfo.cs
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\scopedcss\bundle\test 1.styles.css
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\scopedcss\projectbundle\test 1.bundle.scp.css
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\test 1.dll
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\refint\test 1.dll
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\test 1.pdb
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\test 1.genruntimeconfig.cache
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\ref\test 1.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ivanm\source\repos\test 1\test 1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ivanm\source\repos\test 1\test 1\obj\Debug\net6.0\test 1.csproj.CopyComplete

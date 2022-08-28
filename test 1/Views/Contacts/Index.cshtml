@@ -1,0 +1,42 @@
+﻿@model Contact
+
+@{
+    ViewData["Title"] = "Контакты";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Контакты</h1>
+    <!--
+        asp-controller="Contacts" говорю какой контроллер буду использовать при отправке формы
+        asp-action="Check" какой метод буду использовать в контролере
+    -->
+    <form method="post" asp-controller="Contacts" asp-action="Cheack">
+        
+        <label asp-for="Name"></label>
+        <input asp-for="Name" type="" />
+        <span asp-validation-for="Name"></span>
+
+        <br />
+        <label asp-for="SurName"></label>
+        <input asp-for="SurName" type="" />
+        <span asp-validation-for="SurName"></span>
+        <br />
+
+        <label asp-for="Age"></label>
+        <input asp-for="Age" type="" />
+        <span asp-validation-for="Age"></span>
+        <br />
+
+        <label asp-for="Mail"></label>
+        <input asp-for="Mail" type="" />
+        <span asp-validation-for="Mail"></span>
+        <br />
+
+        <label asp-for="Massage"></label>
+        <input asp-for="Massage" type="" />
+        <span asp-validation-for="Massage"></span>
+        <br /><br />
+
+        <button type="submit"> Отправить</button>
+    </form>
+</div>
